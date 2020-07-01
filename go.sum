@@ -1,0 +1,4 @@
+github.com/flycash/beego-log/api v0.0.0-20200701144008-b4de19d901c8 h1:23BZ0P9VXt/2TTtFIUPByIdJTpDHAgdiyL9TYbJ/ooA=
+github.com/flycash/beego-log/api v0.0.0-20200701144008-b4de19d901c8/go.mod h1:VYW/CBJyvuWElRG/ZekoyrnrPVsJPnGx9luNa92Ydm8=
+github.com/flycash/beego-log/zap-impl v0.0.0-20200701144008-b4de19d901c8 h1:oQ+/ykL++YfQFKgotmGG9AwyxACwLRR38nPBdZWdtqs=
+github.com/flycash/beego-log/zap-impl v0.0.0-20200701144008-b4de19d901c8/go.mod h1:6qRhnDnxzhMyk9E2wFCfkWBxuCVY81Y51bPMIlb4C/Q=
